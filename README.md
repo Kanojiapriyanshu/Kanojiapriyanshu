@@ -8,6 +8,5 @@
   - Email: [priyanshukanojia907@gmail.com](mailto:priyanshukanojia907@gmail.com)
   - LinkedIn: [linkedin.com/in/priyanshukanojia](http://www.linkedin.com/in/priyanshukanojia)
   - Portfolio: [priyanshukanojiya.netlify.app](https://priyanshukanojiya.netlify.app/)
-  - Phone: +91 7236017584
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and enhancing user experiences through efficient web design.
